@@ -2,10 +2,10 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/terms" version="2.0">
 <channel>
   <title>My Blog</title>
-  <link>https://www.sport.es</link>
+  <link>https://robertinhoss.github.io/webrss/</link>
   <description>This is my personal blog.</description>
   <language>es-es</language>
-  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 11 feb 2025 12:00:00 GMT</lastBuildDate>
 
   <item>
     <title>Blog Entry 1</title>
