@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/terms" version="2.0">
 <channel>
   <title>My Blog</title>
-  <link>https://www.example.com/</link>
+  <link>https://www.sport.es</link>
   <description>This is my personal blog.</description>
-  <language>en-us</language>
+  <language>es-es</language>
   <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
 
   <item>
